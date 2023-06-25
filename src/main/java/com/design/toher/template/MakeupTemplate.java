@@ -2,6 +2,7 @@ package com.design.toher.template;
 
 /**
  * 化妆抽象类 定义了化妆的步骤
+ * @author mac
  */
 public abstract class MakeupTemplate {
     public final void doMakeup() {

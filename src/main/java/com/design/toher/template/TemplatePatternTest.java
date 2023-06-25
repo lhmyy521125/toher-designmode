@@ -11,5 +11,8 @@ public class TemplatePatternTest {
         System.out.println("女友开始画魅力妖艳妆：");
         MakeupTemplate glamorousMakeup = new GlamorousMakeup();
         glamorousMakeup.doMakeup();
+
+        String str = "hello";
+
     }
 }

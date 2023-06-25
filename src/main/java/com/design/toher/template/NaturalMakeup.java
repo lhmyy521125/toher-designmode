@@ -2,6 +2,7 @@ package com.design.toher.template;
 
 /**
  * 定义自然妆
+ * @author mac
  */
 public class NaturalMakeup extends MakeupTemplate {
     @Override
